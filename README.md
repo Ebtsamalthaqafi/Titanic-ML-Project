@@ -90,7 +90,7 @@ Simple models like Decision Tree and Logistic Regression helped explain which fe
 
 ---
 
-## 🔮 Future Work
+## Future Work
 - Improve accuracy using hyperparameter tuning
 - Try cross-validation instead of a single train/test split
 - Explore deep learning models with more data
@@ -98,6 +98,6 @@ Simple models like Decision Tree and Logistic Regression helped explain which fe
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project showcases a complete ML workflow using the Titanic dataset.  
 It demonstrates how data preprocessing, careful model selection, and result visualization can lead to strong predictive performance using classic ML algorithms.
