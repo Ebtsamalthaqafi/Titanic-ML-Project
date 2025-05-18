@@ -1,7 +1,7 @@
 
 # Titanic Machine Learning Project
 
-## 🧾 Overview
+## Overview
 This project applies supervised machine learning techniques to predict survival on the Titanic dataset. It demonstrates the full ML pipeline including data preprocessing, model training, evaluation, and visualization. Multiple models were tested to find the best-performing approach.
 
 ## 📊 Dataset
