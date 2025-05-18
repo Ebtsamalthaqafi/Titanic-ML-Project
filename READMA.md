@@ -19,7 +19,6 @@ The Titanic dataset contains real data of passengers from the 1912 disaster. The
 
 ## File Structure
 Titanic-ML-Project/
-├── your_code.ipynb                # Colab notebook with all analysis
 ├── train_all_models.py            # Python script to train all models
 ├── model_accuracy_chart.png       # Accuracy bar chart with table
 └── Data/
@@ -46,9 +45,15 @@ Titanic-ML-Project/
 1. Run train_all_models.py to train all models and generate predictions.
 2. Or open your_code.ipynb in Google Colab for full step-by-step execution.
 
+## Future Work
+ • Hyperparameter Tuning: Implement grid search or randomized search to optimize model parameters for better accuracy.
+ • Deep Learning: Explore neural network architectures to compare their performance with traditional ML models.
+ • Model Deployment: Develop a web-based application to allow real-time survival predictions based on user input.
+ • Additional Features: Incorporate external data or engineer new features to enhance predictive power.
+
 ## Data Source
 
-- [Titanic Dataset on GitHub (Data Science Dojo)](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ## Author
 
